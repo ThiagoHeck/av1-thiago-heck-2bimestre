@@ -2,7 +2,7 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   margin: 0;
   padding: 0;
-  background-color: #444;
+  background-color: #ffffff;
 }
 
 header {
@@ -43,4 +43,49 @@ footer {
   text-align: center;
   padding: 15px;
   font-size: 20px;
+}
+
+#inicio {
+  background-color: #01d813;
+  color: lightblue;
+  border: 10px solid #ffffff;
+  margin: 5px;
+}
+
+#habilidades-atuais {
+  background-color: #d80101;
+  color: lightblue;
+  border: 10px solid #ffffff;
+  margin: 5px;
+}
+
+#habilidades-futuras {
+  background-color: #d8d801;
+  color: lightblue;
+  border: 10px solid #ffffff;
+  margin: 5px;
+}
+
+#cacas-aereos {
+  background-color: #d400ff;
+  color: lightblue;
+  padding: 30px;
+  border: 10px solid #ffffff;
+  margin: 5px;
+}
+
+#ICBM {
+  background-color: #052c81;
+  color: lightblue;
+  padding: 30px;
+  border: 10px solid #ffffff;
+  margin: 5px;
+}
+
+#Links {
+  background-color: #ff0202;
+  color: lightblue;
+  padding: 30px;
+  border: 10px solid #ffffff;
+  margin: 5px;
 }
