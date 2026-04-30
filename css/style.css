@@ -53,28 +53,28 @@ footer {
 
 #inicio {
   background-color: #01d813;
-  color: lightblue;
+  color: rgb(111, 0, 255);
   border: 10px solid #ffffff;
   margin: 5px;
 }
 
-#habilidades-atuais {
+#inspiracao {
   background-color: #d80101;
   color: lightblue;
   border: 10px solid #ffffff;
   margin: 5px;
 }
 
-#habilidades-futuras {
+#desenvolvimento {
   background-color: #d8d801;
-  color: lightblue;
+  color: rgb(0, 26, 255);
   border: 10px solid #ffffff;
   margin: 5px;
 }
 
-#cacas-aereos {
-  background-color: #d400ff;
-  color: lightblue;
+#Link {
+  background-color: #ff0202;
+  color: rgb(0, 191, 255);
   padding: 30px;
   border: 10px solid #ffffff;
   margin: 5px;
