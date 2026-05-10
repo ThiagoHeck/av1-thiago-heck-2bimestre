@@ -84,33 +84,24 @@ footer {
   background-color: #0aa037;
   color: lightblue;
   border: 10px solid #ffffff;
-  margin: 5px;
+  padding: 30px;
 }
 
 #historia {
   background-color: #aa0a0ac0;
   color: rgb(10, 190, 190);
   border: 10px solid #ffffff;
-  margin: 5px;
-}
-
-main h2 {
-  color: #0000ff;
-  font-weight: bold;
-}
-
-main h1 {
-  color: #0000ff;
+  padding: 30px;
 }
 
 #alertaspoilers {
   color: red;
+  background-color: blueviolet;
   font-size: 20px;
   font-weight: bold;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  padding: 20px;
+  padding: 30px;
   border: 10px solid #ffffff;
-  margin: 1px;
 }
 
 #curiosidades {
@@ -118,7 +109,10 @@ main h1 {
   font-size: 30px;
   font-family: fantasy;
   background-color: #18ae04;
-  margin: 10px;
   padding: 30px;
   border: 10px solid #ffffff;
+}
+
+curiosidades.html {
+  background-color: #ff6505;
 }
