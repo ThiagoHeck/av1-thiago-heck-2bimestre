@@ -106,8 +106,8 @@ footer {
 
 #curiosidades {
   color: #3d03a9;
-  font-size: 30px;
-  font-family: fantasy;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: #18ae04;
   padding: 30px;
   border: 10px solid #ffffff;
@@ -116,9 +116,16 @@ footer {
 #musicas {
   color: #ffee07;
   font-size: 30px;
-  font-family: fantasy;
+  font-family: fantasy, cursive, sans-serif;
   background-color: #e100ff;
   margin: 10px;
   padding: 30px;
   border: 10px solid #ffffff;
+}
+
+iframe {
+  display: block;
+  margin: 20px auto;
+  width: 650px;
+  height: 365px;
 }
