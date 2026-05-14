@@ -17,17 +17,17 @@ nav {
   font-size: 30px;
   margin: auto;
   padding: 15px;
-  background-color: #222;
+  background-color: #05dae959;
 }
 
 nav a {
-  color: darkblue;
+  color: rgba(0, 0, 139, 0.623);
   text-decoration: none;
   margin: 0 10px;
 }
 
 nav a:hover {
-  color: lightblue;
+  color: rgb(72, 255, 0);
   text-decoration: underline;
   font-weight: bold;
 }
@@ -82,20 +82,20 @@ footer {
 
 #desenvolvimentomundo {
   background-color: #0aa037;
-  color: lightblue;
+  color: rgb(4, 66, 87);
   border: 10px solid #ffffff;
   padding: 30px;
 }
 
 #historia {
   background-color: #aa0a0ac0;
-  color: rgb(10, 190, 190);
+  color: rgb(0, 255, 255);
   border: 10px solid #ffffff;
   padding: 30px;
 }
 
 #alertaspoilers {
-  color: red;
+  color: rgb(0, 255, 0);
   background-color: blueviolet;
   font-size: 20px;
   font-weight: bold;
@@ -114,7 +114,7 @@ footer {
 }
 
 #musicas {
-  color: #3d03a9;
+  color: #ffee07;
   font-size: 30px;
   font-family: fantasy;
   background-color: #e100ff;
