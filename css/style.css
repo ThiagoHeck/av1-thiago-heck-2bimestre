@@ -162,7 +162,7 @@ iframe {
 }
 
 form {
-  width: 60%;
+  width: 100%;
   margin: 30px auto;
   padding: 20px;
   border: 1px solid #ccc;
@@ -181,7 +181,7 @@ input {
   padding: 10px;
   margin-bottom: 10px;
   box-sizing: border-box;
-  background-color: #05ff0e7d;
+  background-color: #0affeb;
 }
 
 textarea {
@@ -189,7 +189,7 @@ textarea {
   padding: 10px;
   margin-bottom: 10px;
   box-sizing: border-box;
-  background-color: #bababac9;
+  background-color: #0affeb;
 }
 
 textarea {
@@ -203,7 +203,7 @@ button {
 }
 
 table {
-  width: 80%;
+  width: 85%;
   margin: 30px auto;
   border-collapse: collapse;
   background-color: #00f2ff;
@@ -224,7 +224,7 @@ tr:hover {
 }
 
 .formulario {
-  background-color: #13276e81;
+  background-color: #6baf2bc7;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 10px;
